@@ -11,7 +11,7 @@
   
 
 <div id="badges">
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/Xatt1408" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
     </a>
     <a href="mailto:fable5969@gmail.com" target="_blank">
